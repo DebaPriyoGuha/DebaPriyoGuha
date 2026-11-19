@@ -12,10 +12,13 @@ hyperspectral data.
 **Publications**
 
 - Guha, D. P., & Tabassum, F. 2026, *PIE-ADA: Physics-Informed Ensemble with Adaptive Data
-  Augmentation for Photometric Transient Classification*, IEEE QPAIN 2026
-  ([arXiv:2606.29367](https://arxiv.org/abs/2606.29367))
-- Hossain, M. S., et al. (incl. Guha, D. P.) 2026, *RGC: A Radio AGN Classifier Based on Deep
-  Learning. I.*, A&A, accepted ([arXiv:2510.22190](https://arxiv.org/abs/2510.22190))
+  Augmentation for Photometric Transient Classification*, 2026 IEEE 2nd International
+  Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN 2026)
+  ([doi:10.1109/QPAIN69676.2026.11546175](https://doi.org/10.1109/QPAIN69676.2026.11546175))
+- Hossain, M. S., Shahal, M. S. H., Asad, K. M. B., et al. (incl. Guha, D. P.) 2026,
+  *RGC: A Radio AGN Classifier Based on Deep Learning. I. A Semi-Supervised Multi-Class
+  Model for VLA Images*, A&A
+  ([doi:10.1051/0004-6361/202557828](https://doi.org/10.1051/0004-6361/202557828))
 
 **Tools:** Python, NumPy/SciPy, Astropy, FSPS, nested sampling and MCMC, PyTorch, LaTeX, SLURM
 
