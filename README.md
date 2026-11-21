@@ -1,6 +1,6 @@
 ### Deba Priyo Guha
 
-Research Assistant at the Center for Astronomy, Space Science and Astrophysics (CASSA),
+Research Assistant at the [Center for Astronomy, Space Science and Astrophysics (CASSA)](https://cassa.bd),
 Independent University, Bangladesh.
 
 I work on Type Ia supernova cosmology: measuring the stellar ages of supernova host
